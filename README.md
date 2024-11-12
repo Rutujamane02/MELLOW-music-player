@@ -2,7 +2,7 @@
 
  Mellow - Mood-Based Music Web Player 🎶
 
-**Mellow is a web-based music player designed to deliver a personalized listening experience based on the user's mood. Users can select their current mood, and Mellow will curate a playlist tailored to that mood, offering a seamless way to enjoy music and podcasts that align with their feelings.
+Mellow is a web-based music player designed to deliver a personalized listening experience based on the user's mood. Users can select their current mood, and Mellow will curate a playlist tailored to that mood, offering a seamless way to enjoy music and podcasts that align with their feelings.
 
  Key Features
 
